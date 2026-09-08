@@ -7,9 +7,9 @@ Student
 I am currently enrolled at the University of Waterloo for Bachelor in Computer Engineering
 
 * 🌍  I'm based in Waterloo, Ontario
-* 🖥️  See my portfolio at [Here!!](http://fabian-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [Here!!](https://canadakimchi.github.io/)
 * ✉️  You can contact me at [fabianjung228@gmail.com](mailto:fabianjung228@gmail.com)
-* 🧠  I'm learning Firmwares
+* 🧠  I'm learning FPGA, Embedded Systems, Firmware, and Communication Systems!
 
 ### Skills
 
